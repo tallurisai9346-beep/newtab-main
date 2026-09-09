@@ -1,7 +1,7 @@
 # newtab
 a minimalistic (i guess it is), clean and modern looking custom new tab page that gets its background from nasa's astronomy picture of the day api.
 
-C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2026-09-09 163952.png
+![Uploading Screenshot 2026-09-09 163952.png…]()
 
 
 
