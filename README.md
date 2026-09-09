@@ -35,4 +35,4 @@ get rid of your boring, lifeless and default newtab page. this is a functional n
 ## screenshots and videos
 
 ---
-<div align="right">- made by sai siddardha</div>
+<div align="right">- made by sai kumar</div>
